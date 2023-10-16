@@ -1,0 +1,71 @@
+body{
+    background: rgb(34,32,32);
+    background: linear-gradient(90deg, rgb(22, 21, 21) 30%, rgb(32, 55, 51) 50%, rgba(33,62,56,1) 68%, rgba(33,62,56,1) 73%);
+    }
+ 
+.nav1{
+    background: rgb(34,32,32);
+background: linear-gradient(90deg, rgba(34,32,32,1) 28%, rgba(33,62,56,1) 50%, rgba(33,62,56,1) 68%, rgba(33,62,56,1) 73%);
+}
+.logo1{
+    font-family: 'Montez', cursive;
+    color: white;
+}
+.nav11{
+    color: white;
+}
+.a1{
+    width: 100%;
+    margin-left: 320px;
+    border-radius: 120px;
+    border-color: rgba(33,62,56,1);
+}
+.about1{
+    color: white;  
+}
+.span1{
+    color: rgb(99, 95, 95);
+    /* margin-left: 139px; */
+    font-family: 'Slabo 27px', serif;
+}
+h4{
+    font-family: 'Cormorant Garamond', serif;
+}
+.skill1{
+    color: white;
+}
+h1{
+    color: rgb(99, 95, 95);
+    font-family: 'Slabo 27px', serif;
+}
+ul {
+    list-style-type: none;
+  }
+.f1{
+    background: rgb(34,32,32);
+    background: linear-gradient(90deg, rgba(34,32,32,1) 28%, rgba(33,62,56,1) 50%, rgba(33,62,56,1) 68%, rgba(33,62,56,1) 73%);
+
+  }
+.f2{
+    font-family: 'Slabo 27px', serif;
+    margin-left: 10px;
+
+}
+.contact-icons{
+    height: 60px;
+}
+@media (max-width:767px){
+.a1{
+    height: 300px;
+    width: 100%;
+    margin-left: 35px;
+}
+}
+.q:hover{
+    color:rgba(34,32,32,1)
+}
+
+
+
+
+
